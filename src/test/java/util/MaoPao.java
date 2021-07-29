@@ -9,7 +9,7 @@ import java.util.Map;
 import java.util.Objects;
 
 public class MaoPao {
-
+// 123
     /**
      * @param args
      * 规则1：什么是有效的阶梯
